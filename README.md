@@ -223,8 +223,8 @@ S7 协议使用大端字节序（Big Endian），工具自动处理：
 
 ## 📮 联系方式
 
-- 项目主页: [GitHub](https://github.com/dexcoder/s7-debug-tool)
-- Bug 报告: [Issues](https://github.com/dexcoder/s7-debug-tool/issues)
+- 项目主页: [GitHub](https://github.com/dexcoder/S7DebugTool)
+- Bug 报告: [Issues](https://github.com/dexcoder/S7DebugTool/issues)
 
 ## 🙏 致谢
 

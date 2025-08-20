@@ -189,3 +189,5 @@ PublishScripts/
 # NuGet packages
 *.nupkg
 *.snupkg
+
+.claude/
